@@ -1,0 +1,9 @@
+## Interface: 90200
+## Title: g2ag955gvmhgqm8e
+## Notes: g2ag955gvmhgqm8e
+## LoadOnDemand: 0
+## DefaultState: enabled
+## Dependencies: bxhnz7tp5bge7wvu
+
+spellbook.lua
+guardian.lua
